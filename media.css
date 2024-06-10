@@ -417,6 +417,7 @@
 
     .program_group {
         display: grid;
+        height: 100%;
         width: 370px;
 
         justify-content: space-between;
